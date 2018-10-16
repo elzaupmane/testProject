@@ -1,5 +1,20 @@
 ## Welcome to GitHub Pages
 
+
+## My Code
+
+```python
+a = 22
+b = 33
+
+def fun() {
+    print(a+b)
+}
+```
+
+
+## Default text
+
 You can use the [editor on GitHub](https://github.com/viktorszagorskis/testProject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
