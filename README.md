@@ -8,7 +8,7 @@ a = 22
 b = 33
 
 def fun() {
-    print(a+b)
+    print( a + b ) 
 }
 ```
 
